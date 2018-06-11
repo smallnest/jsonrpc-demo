@@ -1,0 +1,1 @@
+gcc -lpthread -framework CoreFoundation -framework Security -o client rpc.c ./rpc.a
